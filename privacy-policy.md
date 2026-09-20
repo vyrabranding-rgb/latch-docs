@@ -21,14 +21,16 @@ overwritten, and notifies people who asked to be told when a file is free.
 | Data | Purpose | Where it is stored | Retention |
 |---|---|---|---|
 | Attachment id, file name, page or blog post id, version number | Identify the locked file | Atlassian Forge storage, inside your Atlassian site's region | Until the file is checked in, the lock expires, or the file is deleted |
-| Atlassian account id and display name of the person who checked a file out | Show colleagues who has the file | Same | Same as the lock |
+| Atlassian account id of the person who checked a file out | Show colleagues who has the file (the name is resolved live, never stored) | Same | Same as the lock |
 | Optional free-text note entered at check-out | Give colleagues context | Same | Same as the lock |
 | Atlassian account ids of people waiting for a file | Notify them once when the file is free | Same | Cleared when the file is checked in |
 | Atlassian account ids of the uploader and lock owner, version number and time of an overwrite | Show overwrite warnings on the page | Same | 90 days, then deleted automatically |
 | Site settings entered by an administrator (group names, toggles, numbers) | Configure the app | Same | Until changed or the app is uninstalled |
 
-We do **not** process file contents, email addresses, IP addresses, or any
-data outside the Confluence site the app is installed on. The app performs no
+We store only Atlassian account ids as user identifiers; names are looked up
+from Confluence at display time and never stored. We do **not** process file
+contents, email addresses, IP addresses, or any data outside the Confluence
+site the app is installed on. The app performs no
 analytics or tracking.
 
 ## 3. Where data lives and who can see it
