@@ -63,7 +63,7 @@ out and in is paused until an administrator subscribes.
 
 ## Support
 
-Email **vyra.branding@gmail.com**. Target first response: two business days.
+Email **support@vyraapps.com**. Target first response: two business days.
 Please include your site URL, the page URL and what you expected to happen.
 
 ## Release notes

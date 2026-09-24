@@ -4,7 +4,7 @@ _Last updated: 20 September 2026_
 
 Latch ("the app") is an Atlassian Forge app for Confluence Cloud published by
 **VYRA** ("we", "us"), Stockholm, Sweden. Contact:
-**vyra.branding@gmail.com**.
+**support@vyraapps.com**.
 
 This policy explains what data the app processes, why, where it is stored,
 and your rights. It applies to the app only; Atlassian's own privacy policy
@@ -56,7 +56,7 @@ our legitimate interest in keeping the service secure and reliable (art.
 You may request access to, correction of, or deletion of your personal data
 by contacting your Confluence administrator, who can check files in and
 uninstall the app, which deletes all app data. You may also contact us at
-**vyra.branding@gmail.com**. EU/EEA residents may lodge a complaint with their
+**support@vyraapps.com**. EU/EEA residents may lodge a complaint with their
 supervisory authority; in Sweden this is Integritetsskyddsmyndigheten (IMY).
 
 ## 6. Data deletion

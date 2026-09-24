@@ -80,5 +80,4 @@ the Atlassian Marketplace Terms of Use.
 
 ## 9. Contact
 
-Questions about this DPA: see the support contact on the app's Marketplace
-listing.
+Questions about this DPA: **support@vyraapps.com**.

@@ -2,7 +2,7 @@
 
 _Last updated: 23 September 2026_
 
-Published by **VYRA**, Stockholm, Sweden.
+Published by **VYRA**, Stockholm, Sweden. Contact: **security@vyraapps.com**.
 
 ## Architecture
 
@@ -61,9 +61,8 @@ Atlassian Marketplace.
 
 ## Vulnerability reporting
 
-Report suspected vulnerabilities to **security@** our domain (see the contact
-address on the app's Marketplace listing). Please include reproduction steps
-and the affected site.
+Report suspected vulnerabilities to **security@vyraapps.com**. Please include
+reproduction steps and the affected site.
 
 Our commitments:
 

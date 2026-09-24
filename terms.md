@@ -38,7 +38,7 @@ Atlassian Forge storage for your site.
 
 ## 5. Support and availability
 
-We provide support by email at **vyra.branding@gmail.com** with a target first
+We provide support by email at **support@vyraapps.com** with a target first
 response within two business days. The app runs on Atlassian's Forge
 platform; availability depends on Atlassian's service.
 
